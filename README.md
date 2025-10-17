@@ -28,7 +28,7 @@
 
 ---
 
-## Teknologi yang Digunakan
+**## Teknologi yang Digunakan**
 **1.Backend >>> Laravel 10 (PHP 8.2)** 
 **2.Frontend >>> Bootstrap 5, Chart.js, Leaflet.js** 
 **3.Database >>> MySQL** 
