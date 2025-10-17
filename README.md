@@ -16,6 +16,7 @@
 - **1. Melsan Aji Saputra**
 - **2. Dodi Setiawan**
 - **3. Deni Waluyo**
+  
 ---
 
 ## Fitur Utama
@@ -25,7 +26,7 @@
 - **Peta Interaktif (Leaflet JS)**
 - **Grafik Kondisi & Statistik Otomatis**
 - **Halaman Publik untuk Masyarakat Umum**
-
+  
 ---
 
 ## Teknologi yang Digunakan
@@ -36,7 +37,7 @@
 
 **3. Database >>> MySQL** 
 
-**4. Lainnya >>> Maatwebsite Excel, DomPDF, Auth Laravel** 
+**4. Lainnya >>> Maatwebsite Excel, DomPDF, Auth Laravel**
 
 ---
 
@@ -91,6 +92,8 @@ php artisan migrate --seed
 
    © 2025 – Auth. Kelompok II FTI Universitas Aisyah Pringsewu
    
+---
+
 ## Tampilan
 
 **1. Publik/Admin**
@@ -137,12 +140,16 @@ php artisan migrate --seed
 
    ![9  Admin_Akun](https://github.com/user-attachments/assets/ba9050b5-ecac-4f19-9481-e709f3d916c6)
    
+---
+
 ## Aktor:
 
 1. Admin → mengelola seluruh data jembatan.
 
 2. Publik (Masyarakat) → hanya melihat peta dan informasi jembatan.
    
+---
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
