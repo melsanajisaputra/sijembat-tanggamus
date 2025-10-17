@@ -38,8 +38,11 @@
 
 ## Instalasi di Localhost (XAMPP)
 **1. Clone repository ini:**
+
    #bash
+   
    git clone https://github.com/username/sijembat-tanggamus.git
+   
    cd sijembat-tanggamus
    
 **2. Install dependencies:**
