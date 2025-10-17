@@ -64,7 +64,9 @@
 **4. Atur koneksi database di .env:**
 
    DB_DATABASE=sijembat
-      DB_USERNAME=root
+   
+   DB_USERNAME=root
+    
    DB_PASSWORD=
    
 **5. Generate key Laravel:**
@@ -88,6 +90,16 @@ php artisan migrate --seed
 **8. Buka di browser: http://127.0.0.1:8000**
 
    © 2025 – Auth. Kelompok II FTI Universitas Aisyah Pringsewu
+
+   ![1  Publik_View](https://github.com/user-attachments/assets/ae744339-3172-426b-ae49-44be698301a1)
+   ![2  Publik_Detail](https://github.com/user-attachments/assets/e80711d6-430a-478c-b900-51b06d709837)
+   ![3  Admin_Login](https://github.com/user-attachments/assets/99adb695-989e-4d1d-943d-563d8044c571)
+   ![4  Admin_Dashboard](https://github.com/user-attachments/assets/48130f5b-aeaa-433f-bd87-c995fd7bc607)
+   ![5  Admin_Data_Jembatan](https://github.com/user-attachments/assets/0dde1b1c-8691-43ce-afdd-783e4b7993c3)
+   ![6  Admin_Edit_Jembatan](https://github.com/user-attachments/assets/fec4a947-7805-4d51-99bf-1faa7cd8f9e4)
+   ![7  Admin_Import_Jembatan](https://github.com/user-attachments/assets/0457c31a-fc2b-4ab9-98ad-65534506e939)
+   ![8  Admin_Eksport_Jembatan](https://github.com/user-attachments/assets/0f9edb11-ba9e-4ac7-84a9-c0830f91bbeb)
+   ![9  Admin_Akun](https://github.com/user-attachments/assets/ba9050b5-ecac-4f19-9481-e709f3d916c6)
    
 ## About Laravel
 
