@@ -8,6 +8,61 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+# SIJEMBAT – Sistem Informasi Jembatan Kabupaten Tanggamus
+
+Sistem Informasi Jembatan (SIJEMBAT) adalah aplikasi berbasis web yang dikembangkan untuk memenuhi tugas mata kuliah Cloud Computing Fakultas Teknik Informatika Universitas Aisyah Pringsewu(UAP).
+Nama - Nama Kelompok II 
+1.Melsan Aji Saputra
+2.Dodi Setiawan
+3.Deni Waluyo
+---
+
+## Fitur Utama
+- **Autentikasi Admin (Login/Logout)**
+- **Manajemen Data Jembatan (CRUD)**
+- **Import/Export Data (Excel & PDF)**
+- **Peta Interaktif (Leaflet JS)**
+- **Grafik Kondisi & Statistik Otomatis**
+- **Halaman Publik untuk Masyarakat**
+
+---
+
+## Teknologi yang Digunakan
+**1.Backend >>> Laravel 10 (PHP 8.2)** 
+**2.Frontend >>> Bootstrap 5, Chart.js, Leaflet.js** 
+**3.Database >>> MySQL** 
+**4.Lainnya >>> Maatwebsite Excel, DomPDF, Auth Laravel** 
+
+---
+
+## Instalasi di Localhost (XAMPP)
+**1. Clone repository ini:**
+   #bash
+   git clone https://github.com/username/sijembat-tanggamus.git
+   cd sijembat-tanggamus
+**2. Install dependencies:**
+   #bash
+   composer install
+   npm install
+**3. Salin file .env.example menjadi .env:**
+   cp .env.example .env
+**4. Atur koneksi database di .env:**
+   DB_DATABASE=sijembat
+   DB_USERNAME=root
+   DB_PASSWORD=
+**5. Generate key Laravel:**
+   #bash
+   php artisan key:generate
+**6. Jalankan migrasi dan seeding (jika ada):**
+   #bash
+php artisan migrate --seed
+**7. Jalankan server lokal:**
+   #bash
+   php artisan serve
+**8. Buka di browser: http://127.0.0.1:8000**
+
+   © 2025 – Auth. Kelompok II FTI Universitas Aisyah Pringsewu
+   
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
