@@ -46,26 +46,39 @@
    cd sijembat-tanggamus
    
 **2. Install dependencies:**
+
    #bash
+   
    composer install
+   
    npm install
    
 **3. Salin file .env.example menjadi .env:**
+
    cp .env.example .env
    
 **4. Atur koneksi database di .env:**
+
    DB_DATABASE=sijembat
-   DB_USERNAME=root
+      DB_USERNAME=root
    DB_PASSWORD=
+   
 **5. Generate key Laravel:**
+
    #bash
+   
    php artisan key:generate
+   
 **6. Jalankan migrasi dan seeding (jika ada):**
+
    #bash
+   
 php artisan migrate --seed
 
 **7. Jalankan server lokal:**
+
    #bash
+
    php artisan serve
    
 **8. Buka di browser: http://127.0.0.1:8000**
