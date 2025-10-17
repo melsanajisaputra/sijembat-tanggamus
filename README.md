@@ -12,7 +12,7 @@
 
 **Sistem Informasi Jembatan (SIJEMBAT) adalah aplikasi berbasis web yang dikembangkan untuk memenuhi tugas mata kuliah Cloud Computing Fakultas Teknik Informatika Universitas Aisyah Pringsewu(UAP).**
 
-- **Nama - Nama Kelompok II** 
+**Nama - Nama Kelompok II** 
 - **1.Melsan Aji Saputra**
 - **2.Dodi Setiawan**
 - **3.Deni Waluyo**
@@ -49,6 +49,7 @@
    
 **3. Salin file .env.example menjadi .env:**
    cp .env.example .env
+   
 **4. Atur koneksi database di .env:**
    DB_DATABASE=sijembat
    DB_USERNAME=root
@@ -59,9 +60,11 @@
 **6. Jalankan migrasi dan seeding (jika ada):**
    #bash
 php artisan migrate --seed
+
 **7. Jalankan server lokal:**
    #bash
    php artisan serve
+   
 **8. Buka di browser: http://127.0.0.1:8000**
 
    © 2025 – Auth. Kelompok II FTI Universitas Aisyah Pringsewu
