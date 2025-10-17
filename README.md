@@ -1,4 +1,4 @@
-
+## Welcome Guyss
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -13,19 +13,19 @@
 **Sistem Informasi Jembatan (SIJEMBAT) adalah aplikasi berbasis web yang dikembangkan untuk memenuhi tugas mata kuliah Cloud Computing Fakultas Teknik Informatika Universitas Aisyah Pringsewu(UAP).**
 
 **Nama - Nama Kelompok II** 
-- **1. Melsan Aji Saputra**
-- **2. Dodi Setiawan**
-- **3. Deni Waluyo**
+**1. Melsan Aji Saputra**
+**2. Dodi Setiawan**
+**3. Deni Waluyo**
   
 ---
 
 ## Fitur Utama
-- **Autentikasi Admin (Login/Logout)**
-- **Manajemen Data Jembatan (CRUD)**
-- **Import/Export Data (Excel & PDF)**
-- **Peta Interaktif (Leaflet JS)**
-- **Grafik Kondisi & Statistik Otomatis**
-- **Halaman Publik untuk Masyarakat Umum**
+**1. Autentikasi Admin (Login/Logout)**
+**2. Manajemen Data Jembatan (CRUD)**
+**3. Import/Export Data (Excel & PDF)**
+**4. Peta Interaktif (Leaflet JS)**
+**5. Grafik Kondisi & Statistik Otomatis**
+**6. Halaman Publik untuk Masyarakat Umum**
   
 ---
 
