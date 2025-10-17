@@ -12,10 +12,10 @@
 
 **Sistem Informasi Jembatan (SIJEMBAT) adalah aplikasi berbasis web yang dikembangkan untuk memenuhi tugas mata kuliah Cloud Computing Fakultas Teknik Informatika Universitas Aisyah Pringsewu(UAP).**
 
-Nama - Nama Kelompok II 
-1.Melsan Aji Saputra
-2.Dodi Setiawan
-3.Deni Waluyo
+- **Nama - Nama Kelompok II** 
+- **1.Melsan Aji Saputra**
+- **2.Dodi Setiawan**
+- **3.Deni Waluyo**
 ---
 
 ## Fitur Utama
