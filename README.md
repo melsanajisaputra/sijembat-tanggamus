@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -10,7 +10,8 @@
 
 # SIJEMBAT – Sistem Informasi Jembatan Kabupaten Tanggamus
 
-Sistem Informasi Jembatan (SIJEMBAT) adalah aplikasi berbasis web yang dikembangkan untuk memenuhi tugas mata kuliah Cloud Computing Fakultas Teknik Informatika Universitas Aisyah Pringsewu(UAP).
+**Sistem Informasi Jembatan (SIJEMBAT) adalah aplikasi berbasis web yang dikembangkan untuk memenuhi tugas mata kuliah Cloud Computing Fakultas Teknik Informatika Universitas Aisyah Pringsewu(UAP).**
+
 Nama - Nama Kelompok II 
 1.Melsan Aji Saputra
 2.Dodi Setiawan
@@ -40,10 +41,12 @@ Nama - Nama Kelompok II
    #bash
    git clone https://github.com/username/sijembat-tanggamus.git
    cd sijembat-tanggamus
+   
 **2. Install dependencies:**
    #bash
    composer install
    npm install
+   
 **3. Salin file .env.example menjadi .env:**
    cp .env.example .env
 **4. Atur koneksi database di .env:**
